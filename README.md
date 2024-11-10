@@ -25,5 +25,3 @@ https://www.akakce.com/ websitesi üzerinden 1 adet UI test senaryo yazımı ger
 python3 main.py
 ```
 
-Ayrıca bir diğer görev olan [Restful Broker](https://restful-booker.herokuapp.com) uygulaması için POSTMAN üzerinden yapılan API test senaryoları da bu repo altına eklenmiştir. (Akakce.postman_collection.json) dosyası postman uygulamasına export edilerek kontroller sağlanabilir.
-
