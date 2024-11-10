@@ -22,6 +22,6 @@ https://www.akakce.com/ websitesi üzerinden 1 adet UI test senaryo yazımı ger
 ## Usage
 **Run the program**
    ```bash
-python3 main.py
+behave features --tags=completed
 ```
 
