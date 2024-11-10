@@ -1,7 +1,7 @@
 # UI TEST OTOMASYONU PROJESİ
 
 ## Description
-https://www.akakce.com/ websitesi üzerinden 1 adet UI test senaryo yazımı gerçekleştirilmiştir. Kullanıcının takip listesine ürün eklemesiyle beraber otomasyon sonlanmaktadır. Otomasyon BDD anlayışı ile geliştirilmiştir.
+https://www.akakce.com/ websitesi üzerinden 1 adet UI test senaryo yazımı gerçekleştirilmiştir. Kullanıcının takip listesine ürün eklemesiyle beraber otomasyon sonlanmaktadır. Otomasyon BDD anlayışı ile Behave toolu kullanılarak geliştirilmiştir.
 
 ## Installation
 
